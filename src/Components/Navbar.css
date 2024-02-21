@@ -8,8 +8,8 @@ html {
   }
 
   .navbar {
-    position: sticky; /* Set the position to sticky */
-  top: 0; /* Stick it to the top of the viewport */
+    position: sticky; 
+  top: 0; 
   background-color: #fff;
   color: #000;
   display: flex;
@@ -26,14 +26,14 @@ html {
     text-decoration: none;
     font-weight: bold;
     font-family: "OutfitRegular", sans-serif;
-    font-size: 14px; /* Set the font size to 14px */
+    font-size: 18px; 
   }
   
   .nav-button:hover {
     color: #0056b3;
     text-decoration: underline;
     font-family: "OutfitRegular", sans-serif;
-    font-size: 14px; /* Set the font size to 14px */
+    font-size: 14px;
   }
   .logo {
    
@@ -49,6 +49,10 @@ html {
     display: flex;
     align-items: center;
 
+  }
+
+  .a{
+    font-size: 20px;
   }
   
   .nav-list {

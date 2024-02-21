@@ -18,6 +18,7 @@
     margin-left: 150px;
     padding-top: 20px;
     width: 80%;
+    font-size:20px;
 }
 
 .know{
@@ -38,4 +39,5 @@
     background-color:blue;
     color: white;
     font-weight: solid white;
+    font-size: 20px;
 }
