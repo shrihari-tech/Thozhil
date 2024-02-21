@@ -1,0 +1,41 @@
+.text{
+    text-align: center;
+    background-color:orange;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.welcome{
+    padding-top:20px;
+    color: blue;
+    font-weight: bold;
+    font-size:30px;
+    text-align: center;
+}
+
+.para{
+    text-align: center;
+    margin-left: 150px;
+    padding-top: 20px;
+    width: 80%;
+}
+
+.know{
+    background-color: darkblue;
+    color:white;
+    position: absolute;
+    left:45%;
+    margin-top: 20px;
+    width: 150px;
+    padding:20px;
+    border-radius: 20px;
+    box-shadow: 10px;
+}
+
+.wordings{
+    margin-top: 130px;
+    text-align: center;
+    background-color:blue;
+    color: white;
+    font-weight: solid white;
+}

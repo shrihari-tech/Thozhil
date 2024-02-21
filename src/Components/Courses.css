@@ -1,0 +1,27 @@
+.course{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 70px;
+}
+
+.logoes {
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:10px;
+}
+
+.founder{
+    text-align: center;
+    color: darkblue;
+    font-weight: bold;
+    font-size:40px;
+}
+
+.founder-card{
+    position: absolute;
+    left:50px;
+    margin-top: 20px;
+}
+
